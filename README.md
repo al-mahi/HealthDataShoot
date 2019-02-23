@@ -1,2 +1,2 @@
 # HealthDataShoot
-OSU CSHI Health Data Shootout
+OSU CHSI Health Data Shootout
